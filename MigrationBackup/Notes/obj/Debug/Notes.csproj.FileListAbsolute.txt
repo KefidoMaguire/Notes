@@ -1,0 +1,11 @@
+C:\Users\kefid\source\repos\Notes\MigrationBackup\Notes\bin\Debug\Notes.exe.config
+C:\Users\kefid\source\repos\Notes\MigrationBackup\Notes\bin\Debug\Notes.exe
+C:\Users\kefid\source\repos\Notes\MigrationBackup\Notes\bin\Debug\Notes.pdb
+C:\Users\kefid\source\repos\Notes\MigrationBackup\Notes\obj\Debug\Notes.csproj.AssemblyReference.cache
+C:\Users\kefid\source\repos\Notes\MigrationBackup\Notes\obj\Debug\Notes.csproj.SuggestedBindingRedirects.cache
+C:\Users\kefid\source\repos\Notes\MigrationBackup\Notes\obj\Debug\Notes.Form1.resources
+C:\Users\kefid\source\repos\Notes\MigrationBackup\Notes\obj\Debug\Notes.Properties.Resources.resources
+C:\Users\kefid\source\repos\Notes\MigrationBackup\Notes\obj\Debug\Notes.csproj.GenerateResource.cache
+C:\Users\kefid\source\repos\Notes\MigrationBackup\Notes\obj\Debug\Notes.csproj.CoreCompileInputs.cache
+C:\Users\kefid\source\repos\Notes\MigrationBackup\Notes\obj\Debug\Notes.exe
+C:\Users\kefid\source\repos\Notes\MigrationBackup\Notes\obj\Debug\Notes.pdb
