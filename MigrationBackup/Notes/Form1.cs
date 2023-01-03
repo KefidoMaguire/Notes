@@ -13,6 +13,7 @@ namespace Notes
 {
     public partial class Form1 : Form
     {
+        //Calls object
         SQLConnection sc = new SQLConnection();
 
         public Form1()
@@ -22,7 +23,7 @@ namespace Notes
         }
 
         /// <summary>
-        /// inserts note
+        /// inserts note, with method from the SQLConnection class
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
